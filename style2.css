@@ -1,0 +1,25 @@
+.nav li a
+{background-color: red;
+color: white;
+text-align: center;
+}
+#about_blue
+{
+  background-color: lightblue;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  margin-bottom: 10px
+}
+#about_blue ul
+{color: blue;
+}
+#about_yellow
+{
+  background-color: beige;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+}
+#about_yellow ul
+{color:orange;}
